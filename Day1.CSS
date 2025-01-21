@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+table{
+    text-align: center; 
+}
+hr{
+    color: rgb(165, 42, 61); height: 3px; font-weight: bold; display: block; background-color:burlywood;
+}
+h1{
+    text-align: center; color: brown;
+}
+.LI1{
+    width: 2;
+}
